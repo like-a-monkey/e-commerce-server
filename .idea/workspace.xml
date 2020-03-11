@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="605fc075-0a85-4d7c-aa68-a7ac4d673000" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1UxFJYlVJVDVM6kMGhzIG3oCmxD" />
+  <component name="PropertiesComponent">
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="E:/React/gzhipin-server" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="JavaScript.Libraries" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\work\react项目\code\admin-server_final\public" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="file-upload.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/routers/file-upload.js" working-dir="$PROJECT_DIR$/routers">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.file-upload.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="605fc075-0a85-4d7c-aa68-a7ac4d673000" name="Default" comment="" />
+      <created>1557833029204</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1557833029204</updated>
+      <workItem from="1557833030437" duration="210000" />
+      <workItem from="1558085520673" duration="26000" />
+      <workItem from="1558751209128" duration="4423000" />
+      <workItem from="1559482791524" duration="4194000" />
+      <workItem from="1576290269174" duration="2356000" />
+      <workItem from="1576380957529" duration="1288000" />
+      <workItem from="1576461457996" duration="1225000" />
+      <workItem from="1576583782604" duration="1311000" />
+      <workItem from="1576644244864" duration="2539000" />
+      <workItem from="1576724861863" duration="1683000" />
+      <workItem from="1576758158860" duration="619000" />
+      <workItem from="1576805807475" duration="727000" />
+      <workItem from="1577240526911" duration="617000" />
+      <workItem from="1577339459582" duration="643000" />
+      <workItem from="1577411855372" duration="779000" />
+      <workItem from="1577504299635" duration="3353000" />
+      <workItem from="1577536407900" duration="888000" />
+      <workItem from="1577590368071" duration="1576000" />
+      <workItem from="1577687062875" duration="1320000" />
+      <workItem from="1577771117405" duration="3846000" />
+      <workItem from="1578031996023" duration="599000" />
+      <workItem from="1579317264668" duration="1364000" />
+      <workItem from="1582698607033" duration="1066000" />
+      <workItem from="1583807893137" duration="6565000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
